@@ -918,6 +918,10 @@ section {
 .team .member .social {
   margin-top: 15px;
 }
+.team .member img {
+  height: 350px;
+  width: 400px;
+}
 .team .member .social a {
   transition: color 0.3s;
   color: #fff;
